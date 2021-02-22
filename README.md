@@ -8,7 +8,7 @@ The dataset is obtained from the Census Bureau and represents salaries of people
 •	Number of attributes (Columns): 7
 •	Number of instances (Rows): 48,842
 
-## Instructions:
+## Instructions
 1. Download Tuning_test2.csv, census_data.csv files to local computer
 2. Open ipynb file
 3. Click "Open in Colab" button or click the Colab link
